@@ -1,0 +1,862 @@
+2014-02-25 10:18:26.685360 jtv PRIVMSG joechip504 :SPECIALUSER SPECIALUSER
+Swears per unit time: 0
+CAPS   per unit time: 1
+TOTAL  per unit time: 15
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 6
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 6
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 7
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 12
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 8
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 6
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 7
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 5
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 14
+--
+2014-02-25 10:19:34.514801 thefrenger GOD BLESS THE UNITED STATES OF AMERICA
+Swears per unit time: 0
+CAPS   per unit time: 1
+TOTAL  per unit time: 5
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 6
+--
+2014-02-25 10:19:47.504681 spindaftw OMANYTE BLESS AMUURICA
+Swears per unit time: 0
+CAPS   per unit time: 1
+TOTAL  per unit time: 6
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 7
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 5
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 4
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 8
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 5
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 10
+--
+2014-02-25 10:20:29.289474 lordofthepugs FLOOP HAS RETURNED
+Swears per unit time: 0
+CAPS   per unit time: 1
+TOTAL  per unit time: 7
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 7
+--
+2014-02-25 10:20:38.559174 dspect I WAS JUST LIKE YOU, THEN SAW MY UP COMMAND ON THE SCREEN. DISBELIEVE IF YOU WISH
+Swears per unit time: 0
+CAPS   per unit time: 1
+TOTAL  per unit time: 4
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 4
+--
+2014-02-25 10:20:53.630500 thefrenger LORD BLESS THE UNITED STATES OF AMERICA
+Swears per unit time: 0
+CAPS   per unit time: 1
+TOTAL  per unit time: 11
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 9
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 7
+--
+2014-02-25 10:21:07.053557 scrubcowboy N
+Swears per unit time: 0
+CAPS   per unit time: 1
+TOTAL  per unit time: 8
+--
+2014-02-25 10:21:12.589296 spindaftw LOOK AND TELL ME IF YOU SEE SPINDAFTW ON THERE
+Swears per unit time: 0
+CAPS   per unit time: 1
+TOTAL  per unit time: 12
+--
+2014-02-25 10:21:17.851573 thefrenger LORD BLESS THE UNITED STATES OF AMERICA!  BOMB EUROPE! 
+Swears per unit time: 0
+CAPS   per unit time: 1
+TOTAL  per unit time: 4
+--
+2014-02-25 10:21:21.512287 dspect THE PARSER READS BOTH NOW
+Swears per unit time: 0
+CAPS   per unit time: 1
+TOTAL  per unit time: 8
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 4
+--
+2014-02-25 10:21:34.482814 lordofthepugs FLOOP IS PRINCE PF HELIX
+Swears per unit time: 0
+CAPS   per unit time: 1
+TOTAL  per unit time: 7
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 8
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 10
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 4
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 11
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 8
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 10
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 5
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 6
+--
+2014-02-25 10:22:24.598531 dspect BOOYA
+2014-02-25 10:22:27.237896 nein_fear GODFFING SAVE US
+Swears per unit time: 0
+CAPS   per unit time: 2
+TOTAL  per unit time: 12
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 11
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 11
+--
+2014-02-25 10:22:44.537069 evilneon Omg this is so awkward
+Swears per unit time: 1
+CAPS   per unit time: 0
+TOTAL  per unit time: 5
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 10
+--
+2014-02-25 10:22:57.247466 kalikupo SPINDAFTW I SAW MY NAME BUT NOT YOURS BUT I PROBABLY JUST BLINKED
+Swears per unit time: 0
+CAPS   per unit time: 1
+TOTAL  per unit time: 7
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 4
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 6
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 6
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 10
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 8
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 8
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 10
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 5
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 9
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 7
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 17
+--
+2014-02-25 10:24:04.704000 shiny654 UO
+Swears per unit time: 0
+CAPS   per unit time: 1
+TOTAL  per unit time: 14
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 13
+--
+2014-02-25 10:24:15.295437 dspect WE HAVE TO USE IT A LOOOOOOT
+Swears per unit time: 0
+CAPS   per unit time: 1
+TOTAL  per unit time: 14
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 6
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 12
+--
+2014-02-25 10:24:28.917281 jman256 GUYS THE JWITZ MENTIONED US HE WATCHED US HE KNOWS ABOUT ABBY DIGBIG AND JAY LENO!!!!!!!!!
+Swears per unit time: 0
+CAPS   per unit time: 1
+TOTAL  per unit time: 9
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 9
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 10
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 7
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 6
+--
+2014-02-25 10:24:57.314993 mrmarcellos MOBILE COMMANDS DONT WORK
+Swears per unit time: 0
+CAPS   per unit time: 1
+TOTAL  per unit time: 6
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 2
+--
+2014-02-25 10:25:09.240012 witch.tv PRIVMSG #twitchplayspokemon :Wtf what is the point in this *** Wtf what is the point in this ***
+2014-02-25 10:25:10.455702 evilneon SO CLOSE AHHAHAAH
+Swears per unit time: 1
+CAPS   per unit time: 1
+TOTAL  per unit time: 7
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 6
+--
+2014-02-25 10:25:24.367042 jman256 HE KNOWS THE HARDSHIPS WE WENT THROUGH!
+Swears per unit time: 0
+CAPS   per unit time: 1
+TOTAL  per unit time: 6
+--
+2014-02-25 10:25:29.768859 dspect MOBILE COMMANDS WORK NOW THE PARSER WAS UPDATED
+2014-02-25 10:25:29.929890 lesteriuse ANARCHY
+Swears per unit time: 0
+CAPS   per unit time: 2
+TOTAL  per unit time: 6
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 8
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 11
+--
+2014-02-25 10:27:23.364830 pankow4 VIRIDIAN PEOPLE
+2014-02-25 10:27:23.640811 tyleroswalt17 GAAAAAAAAAYYYYYYYYYYY
+2014-02-25 10:27:27.523732 murdoink THIS PC IS SAFE LIKE A CONDOM
+2014-02-25 10:27:28.258572 your_lunchbox *** noobs
+Swears per unit time: 1
+CAPS   per unit time: 3
+TOTAL  per unit time: 6
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 5
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 7
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 10
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 6
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 8
+--
+2014-02-25 10:27:56.428870 acuzio_renegade N
+2014-02-25 10:27:58.998066 chronacos how the hell did you guys end up here!? hahaha
+Swears per unit time: 1
+CAPS   per unit time: 1
+TOTAL  per unit time: 8
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 12
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 9
+--
+2014-02-25 10:28:13.991441 huewot *** it let's just go lol
+Swears per unit time: 1
+CAPS   per unit time: 0
+TOTAL  per unit time: 5
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 7
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 9
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 7
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 7
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 4
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 7
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 1
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 14
+--
+2014-02-25 10:29:12.969483 jamnt0ast why the hell are we at pallet town
+Swears per unit time: 1
+CAPS   per unit time: 0
+TOTAL  per unit time: 10
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 4
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 8
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 9
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 13
+--
+2014-02-25 10:29:35.741019 thefaceat_puelismasher AAA
+Swears per unit time: 0
+CAPS   per unit time: 1
+TOTAL  per unit time: 11
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 15
+--
+2014-02-25 10:29:46.000581 dspect  TEACH NIDOKING STRENGTH,  BEAT GIOVANNI
+Swears per unit time: 0
+CAPS   per unit time: 1
+TOTAL  per unit time: 12
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 5
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 9
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 10
+--
+2014-02-25 10:30:08.496353 dspect omg so close
+Swears per unit time: 1
+CAPS   per unit time: 0
+TOTAL  per unit time: 7
+--
+2014-02-25 10:30:12.590557 chubba__wubba poop
+2014-02-25 10:30:13.613052 legendofderpy THE PC IS RIGHT. THERE.
+Swears per unit time: 1
+CAPS   per unit time: 1
+TOTAL  per unit time: 15
+--
+2014-02-25 10:30:20.007768 dspect WE NEED TO USE HM04 FOR REDUNDANCY
+Swears per unit time: 0
+CAPS   per unit time: 1
+TOTAL  per unit time: 18
+--
+2014-02-25 10:30:25.267222 bbroaska  
+Swears per unit time: 0
+CAPS   per unit time: 1
+TOTAL  per unit time: 19
+--
+2014-02-25 10:30:28.474844 tyleroswalt17 P
+Swears per unit time: 0
+CAPS   per unit time: 1
+TOTAL  per unit time: 14
+--
+2014-02-25 10:30:34.066237 shashyewe PC
+Swears per unit time: 0
+CAPS   per unit time: 1
+TOTAL  per unit time: 10
+--
+2014-02-25 10:30:41.484573 dspect PC IS DONE
+Swears per unit time: 0
+CAPS   per unit time: 1
+TOTAL  per unit time: 11
+--
+2014-02-25 10:30:46.419669 evilneon Omg this is frustrating..
+Swears per unit time: 1
+CAPS   per unit time: 0
+TOTAL  per unit time: 16
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 13
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 12
+--
+2014-02-25 10:31:01.626812 shashyewe PC
+Swears per unit time: 0
+CAPS   per unit time: 1
+TOTAL  per unit time: 11
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 15
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 8
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 12
+--
+2014-02-25 10:31:22.358361 willdabeef holy crap 7 badges. inconceivable
+Swears per unit time: 1
+CAPS   per unit time: 0
+TOTAL  per unit time: 5
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 5
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 4
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 10
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 7
+--
+2014-02-25 10:31:52.132842 dspect OK I GUESS WE CAM DEPOSIT FLUTE BUT WE SHOULD TEACH HM FIRST
+Swears per unit time: 0
+CAPS   per unit time: 1
+TOTAL  per unit time: 14
+--
+2014-02-25 10:31:55.868539 junkfun2000 GUYS GO TO PC.
+Swears per unit time: 0
+CAPS   per unit time: 1
+TOTAL  per unit time: 17
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 7
+--
+2014-02-25 10:32:04.409491 dspect IN CASE ITS DEPOSITED AGAIN
+Swears per unit time: 0
+CAPS   per unit time: 1
+TOTAL  per unit time: 12
+--
+2014-02-25 10:32:14.420046 shashyewe PC
+Swears per unit time: 0
+CAPS   per unit time: 1
+TOTAL  per unit time: 20
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 17
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 14
+--
+2014-02-25 10:32:28.631117 shashyewe PC
+2014-02-25 10:32:31.287998 spindaftw ANARCHY IS TROLLISM WE NEED TROLLS
+Swears per unit time: 0
+CAPS   per unit time: 2
+TOTAL  per unit time: 12
+--
+2014-02-25 10:32:35.271817 dspect IF WE GO IN PC AGAIN WE COULD DEPOSIT STRENGTH.  TEACH FIRST
+2014-02-25 10:32:35.619739 jamnt0ast PCPCPCPC DROP OFF LOKEFLUTE 
+Swears per unit time: 0
+CAPS   per unit time: 2
+TOTAL  per unit time: 18
+--
+2014-02-25 10:32:38.374328 taysterman omg
+Swears per unit time: 1
+CAPS   per unit time: 0
+TOTAL  per unit time: 5
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 9
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 10
+--
+2014-02-25 10:32:58.550156 diablotank10001 EVERYONE TYPE UP AND RIGHT
+Swears per unit time: 0
+CAPS   per unit time: 1
+TOTAL  per unit time: 11
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 11
+--
+2014-02-25 10:33:06.413013 geckobot LETS SAVE
+Swears per unit time: 0
+CAPS   per unit time: 1
+TOTAL  per unit time: 15
+--
+2014-02-25 10:33:13.497455 huewot DITCH THE FLUTE PEOPLE.
+Swears per unit time: 0
+CAPS   per unit time: 1
+TOTAL  per unit time: 15
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 10
+--
+2014-02-25 10:33:26.696103 khlx Damn
+Swears per unit time: 1
+CAPS   per unit time: 0
+TOTAL  per unit time: 4
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 8
+--
+2014-02-25 10:33:37.944243 jamnt0ast lmao
+Swears per unit time: 1
+CAPS   per unit time: 0
+TOTAL  per unit time: 10
+--
+2014-02-25 10:33:45.073299 diablotank10001 MOVE UP TO THE LEFT TO THE PC
+Swears per unit time: 0
+CAPS   per unit time: 1
+TOTAL  per unit time: 11
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 12
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 9
+--
+2014-02-25 10:34:00.112111 ddsgames OMG BANANAS!!!!!
+2014-02-25 10:34:00.112111 ddsgames OMG BANANAS!!!!!
+2014-02-25 10:34:01.230947 supasquirrel541 spin i love you right now- no homo
+2014-02-25 10:34:01.708494 klinc9 SAVE MOAR
+Swears per unit time: 2
+CAPS   per unit time: 2
+TOTAL  per unit time: 9
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 6
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 6
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 6
+--
+2014-02-25 10:34:24.911678 buttballplayer THE PC IS EVIL DON'T GO THERE
+Swears per unit time: 0
+CAPS   per unit time: 1
+TOTAL  per unit time: 12
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 6
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 9
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 9
+--
+2014-02-25 10:34:43.840427 pedrobza WHAT HAPPENED
+2014-02-25 10:34:48.166322 waverunner56  It was there I had my greatest struggle. I just had to dispose of that damn flute, but Mario was calling to me...
+Swears per unit time: 1
+CAPS   per unit time: 1
+TOTAL  per unit time: 8
+--
+2014-02-25 10:34:49.883352 pedrobza WHY ARE WE HOME
+Swears per unit time: 0
+CAPS   per unit time: 1
+TOTAL  per unit time: 16
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 4
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 5
+--
+2014-02-25 10:35:05.351720 b0scom0ney  lick my balls you effin homo with your stupid plans!
+Swears per unit time: 1
+CAPS   per unit time: 0
+TOTAL  per unit time: 8
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 5
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 8
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 6
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 6
+--
+2014-02-25 10:35:35.672219 lilpuddintaterz what evil *** is saying south?
+Swears per unit time: 1
+CAPS   per unit time: 0
+TOTAL  per unit time: 11
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 10
+--
+2014-02-25 10:35:42.890728 xcmg213 G
+2014-02-25 10:35:46.490380 spindaftw WTH IS SOUTH
+Swears per unit time: 0
+CAPS   per unit time: 2
+TOTAL  per unit time: 18
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 10
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 11
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 12
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 7
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 6
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 14
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 14
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 14
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 8
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 14
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 10
+--
+2014-02-25 10:36:45.991822 geckobot SO FUKCING CLOSE
+2014-02-25 10:36:49.943575 jamie9897 UP UP DOWN DOWN LEFT RIGHT LEFT RIGHT B A START
+Swears per unit time: 0
+CAPS   per unit time: 2
+TOTAL  per unit time: 17
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 10
+--
+2014-02-25 10:37:00.514125 theruisranne TEACH STRENGTH BEFORE WE DEPOSIT
+Swears per unit time: 0
+CAPS   per unit time: 1
+TOTAL  per unit time: 12
+--
+2014-02-25 10:37:02.855903 lilpuddintaterz ***
+Swears per unit time: 1
+CAPS   per unit time: 0
+TOTAL  per unit time: 10
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 11
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 7
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 9
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 11
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 4
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 4
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 14
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 8
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 8
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 13
+--
+2014-02-25 10:38:02.991848 drity08 TRYING TO TEACH STRENGTH TO NIDOKING
+Swears per unit time: 0
+CAPS   per unit time: 1
+TOTAL  per unit time: 12
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 6
+--
+2014-02-25 10:38:17.631105 b0scom0ney  lick my balls you effin homo with your stupid plans!
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 8
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 6
+--
+Swears per unit time: 0
+CAPS   per unit time: 0
+TOTAL  per unit time: 10
+--

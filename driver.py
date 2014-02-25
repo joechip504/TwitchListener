@@ -16,8 +16,8 @@ MASTER = "joechip504"
 
 #=============================================================================
 
-CHAT_CHANNEL = "joechip504"
-#CHAT_CHANNEL = "twitchplayspokemon"
+#CHAT_CHANNEL = "joechip504"
+CHAT_CHANNEL = "twitchplayspokemon"
 
 #=============================================================================
 
