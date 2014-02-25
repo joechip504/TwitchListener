@@ -2,6 +2,7 @@ import driver
 import time
 from datetime import datetime
 from pprint import pprint
+from random import randint as ri
 
 #=============================================================================
 
@@ -19,6 +20,9 @@ TOTAL_PER_UNIT_TIME = 0
 
 MAX_LINES_PER_FILE = 1000 
 
+FUTURE = time.time() + 2.5*60 + ri(0,60)
+
+
 #=============================================================================
 
 s = driver.connect()
@@ -29,9 +33,20 @@ f = open(fname, "a")
 shitlist = set([word.strip().lower() for word in open('swearwords.txt')])
 ignorelist = ['a', 'b', 'start', 'up', 'down', 'left', 'right']
 
+
+
 while (True):
 
+    #send a message every 2-3 minutes to try and stay connected
+    #to chat
+    if ( time.time() >= FUTURE ):
+        driver.chat(s)
+        FUTURE = time.time() + 2.5*60 + ri(0,60)
+
+
+    #maybe this is where the bottleneck is? Test later
     readbuffer = s.recv(1024).decode("UTF-8", errors="ignore")
+
 
     for msg in readbuffer.split('\n'):
         m = driver.Message(msg)

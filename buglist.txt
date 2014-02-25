@@ -1,8 +1,7 @@
 THINGS TO FIX:
 
-  (02/25/2014 @ 11:30 am)
-  -- Program hangs after 5-10 minutes of running. Not sure if it's my internet, or if it's just timing out. 
-    -- Regardless, need to check socket() docs and lookup a way to check connectivitiy. If it disconnects, reconnect automatically
+    
+  -- Added a fix for the chat disconnecting issue. Bot chats anarchy or democracy every 2-4 minutes, which seems to keep it connected to chat.
 
   -- Definitely not pulling in all of twitch chat. Not sure if this can be fixed, since the guy who wrote TPP
       seems to be having the same issue. Works fine for channels with lower traffic.
@@ -14,3 +13,9 @@ THINGS TO ADD:
   -- Heroku Worker
   -- Email service, eventually
   -- Fuckshitstackoverflow.com
+
+RESOLVED:
+
+  (02/25/2014 @ 11:30 am)
+  -- Program hangs after 5-10 minutes of running. Not sure if it's my internet, or if it's just timing out. 
+    -- Regardless, need to check socket() docs and lookup a way to check connectivitiy. If it disconnects, reconnect automatically

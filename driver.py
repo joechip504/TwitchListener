@@ -1,6 +1,7 @@
 import socket
 import os
 from datetime import datetime
+from random import randint as ri
 
 #=============================================================================
 # TWITCH INFORMATION HERE
@@ -78,7 +79,8 @@ def _connect(HOST, PORT, AUTH, NICK, IDENT, REALNAME, MASTER, CHAT_CHANNEL):
     s.send(bytes("NICK %s\r\n" % NICK, "UTF-8"))
     s.send(bytes("USER %s %s bla :%s\r\n" % (IDENT, HOST, REALNAME), "UTF-8"))
     s.send(bytes("JOIN #%s\r\n" % CHAT_CHANNEL, "UTF-8"))
-    s.send(bytes("PRIVMSG #%s :Connected\r\n" % CHAT_CHANNEL, "UTF-8"))
+    #s.send(bytes("PRIVMSG #%s :Connected\r\n" % CHAT_CHANNEL, "UTF-8"))
+    chat(s)
     return s
 
 #=============================================================================
@@ -87,6 +89,22 @@ def _connect(HOST, PORT, AUTH, NICK, IDENT, REALNAME, MASTER, CHAT_CHANNEL):
 def connect():
     """ CALL THIS FUNCTION """
     return _connect(HOST, PORT, AUTH, NICK, IDENT, REALNAME, MASTER, CHAT_CHANNEL)
+
+#=============================================================================
+
+def _chat(CHAT_CHANNEL, s):
+    """ Randomly print anarchy or democracy. Use to stay connected to 
+    chat"""
+    if ri(0,1) == 0:
+        s.send(bytes("PRIVMSG #%s :anarchy\r\n" % CHAT_CHANNEL, "UTF-8"))
+    else:
+        s.send(bytes("PRIVMSG #%s :democracy\r\n" % CHAT_CHANNEL, "UTF-8"))
+
+#=============================================================================
+
+def chat(s):
+    """CALL THIS FUNCTION"""
+    return _chat(CHAT_CHANNEL, s)
 
 #=============================================================================
 
